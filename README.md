@@ -22,5 +22,4 @@
 ![Profile views](https://gpvc.arturio.dev/hiverkiya)  
 
 <br />
-
- I'm Himanshu Verkiya, Final year CSE Student :man_student: [@Chitkara University](https://www.chitkarauniversity.edu.in/)<img src='https://www.jeduka.com/storage/school_image/2/chitkara-university-chandigarh.png' width='35' height='35'>
+I'm Himanshu Verkiya, Final year CSE Student :man_student: [@Chitkara University](https://www.chitkarauniversity.edu.in/)<img src='https://www.jeduka.com/storage/school_image/2/chitkara-university-chandigarh.png' width='35' height='35'>
