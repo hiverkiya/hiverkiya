@@ -1,24 +1,25 @@
-# Namaste :pray: नमस्ते 
+# Namaste :pray: नमस्ते <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
 
 
 <a href="https://www.github.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's GitHub " width="22px" src="images/github.svg" />
+  <img align="left" alt="Himanshu Verkiya's GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's LinkedIN" width="22px" src="images/linkedin.svg" />
+  <img align="left" alt="Himanshu Verkiya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
 <a href="https://www.instagram.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's Instagram" width="22px" src="images/instagram.svg" />
+  <img align="left" alt="Himanshu Verkiya's Instagram" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's Facebook " width="22px" src="images/facebook.svg" />
+  <img align="left" alt="Himanshu Verkiya's Facebook " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/facebook.svg" />
 </a>
 <a href="https://www.twitter.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's Twitter " width="22px" src="images/twitter.svg" />
+  <img align="left" alt="Himanshu Verkiya's Twitter " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/twitter.svg" />
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=hiverkiya&color=blue))
+![Profile views](https://gpvc.arturio.dev/hiverkiya)  
 
 <br />
 
