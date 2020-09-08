@@ -22,7 +22,7 @@
 ![Profile views](https://gpvc.arturio.dev/hiverkiya)  
 
 <br />
-<p>Hey, Wonderful People.I'm Himanshu Verkiya, Final year CSE Student :man_student: <a href ="https://www.chitkarauniversity.edu.in/"><img src='https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/chitkara_university.png' width='35' height='35'>Chitkara University.<a> I love open-source projects and really admire people working effortlessly to give back to community.Moreover,It's really exciting to see so many awesome projects on GitHub and wonderful features they have about solving so many problems. I :heart:<img " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" /></p>
+<p>Hey, Wonderful People.I'm Himanshu Verkiya, Final year CSE Student :man_student: <a href ="https://www.chitkarauniversity.edu.in/"><img src='https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/chitkara_university.png' width='35' height='35'>Chitkara University.<a> I love open-source projects and really admire people working effortlessly to give back to community.Moreover,It's really exciting to see so many awesome projects on GitHub and wonderful features they have about solving so many problems. I :heart: <img " width="15px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" /></p>
 <img align="right" alt="GIF" src="https://github.com/hiverkiya/hiverkiya/blob/master/images/fishes.gif?raw=true" width="500" height="320" />
  
  **Some of my personal stuff:**
@@ -38,3 +38,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
