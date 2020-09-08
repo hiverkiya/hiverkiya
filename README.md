@@ -22,7 +22,7 @@
 ![Profile views](https://gpvc.arturio.dev/hiverkiya)  
 
 <br />
-<p>Hey, Wonderful People.I'm Himanshu Verkiya, Final year CSE Student :man_student: <a href ="https://www.chitkarauniversity.edu.in/"><img src='https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/chitkara_university.png' width='35' height='35'>Chitkara University.<a> I love open-source projects and really admire people working effortlessly to give back to community.Moreover,It's really exciting to see so many awesome projects on GitHub and wonderful features they have about solving so many problems.</p> :heart:<img " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
+<p>Hey, Wonderful People.I'm Himanshu Verkiya, Final year CSE Student :man_student: <a href ="https://www.chitkarauniversity.edu.in/"><img src='https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/chitkara_university.png' width='35' height='35'>Chitkara University.<a> I love open-source projects and really admire people working effortlessly to give back to community.Moreover,It's really exciting to see so many awesome projects on GitHub and wonderful features they have about solving so many problems. I :heart:<img " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" /></p>
 <img align="right" alt="GIF" src="https://github.com/hiverkiya/hiverkiya/blob/master/images/fishes.gif?raw=true" width="500" height="320" />
  
  **Some of my personal stuff:**
