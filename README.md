@@ -22,5 +22,5 @@
 ![Profile views](https://gpvc.arturio.dev/hiverkiya)  
 
 <br />
-I'm Himanshu Verkiya, Final year CSE Student :man_student: <a href ="https://www.chitkarauniversity.edu.in/"><img src='https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/chitkara_university.png' width='35' height='35'>Chitkara University<a>
+Hey, Wonderful People.I'm Himanshu Verkiya, Final year CSE Student :man_student: <a href ="https://www.chitkarauniversity.edu.in/"><img src='https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/chitkara_university.png' width='35' height='35'>Chitkara University<a>I love open-source projects and really admire people working effortlessly to give back to community.
 
