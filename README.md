@@ -1,4 +1,5 @@
-# Namaste :pray: नमस्ते 
+# Namaste :pray: नमस्ते <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
 
 
 <a href="https://www.github.com/hiverkiya/">
@@ -18,7 +19,7 @@
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=hiverkiya&color=blue))
+![Profile views](https://gpvc.arturio.dev/hiverkiya)  
 
 <br />
 
