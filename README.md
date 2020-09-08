@@ -3,19 +3,19 @@
 
 
 <a href="https://www.github.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's GitHub " width="22px" src="images/github.svg" />
+  <img align="left" alt="Himanshu Verkiya's GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's LinkedIN" width="22px" src="images/linkedin.svg" />
+  <img align="left" alt="Himanshu Verkiya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
 <a href="https://www.instagram.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's Instagram" width="22px" src="images/instagram.svg" />
+  <img align="left" alt="Himanshu Verkiya's Instagram" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's Facebook " width="22px" src="images/facebook.svg" />
+  <img align="left" alt="Himanshu Verkiya's Facebook " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/facebook.svg" />
 </a>
 <a href="https://www.twitter.com/hiverkiya/">
-  <img align="left" alt="Himanshu Verkiya's Twitter " width="22px" src="images/twitter.svg" />
+  <img align="left" alt="Himanshu Verkiya's Twitter " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/twitter.svg" />
 </a>
 
 
