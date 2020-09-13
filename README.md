@@ -47,6 +47,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-**My GitHub Stats**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hiverkiya&show_icons=true&theme=algolia" alt="hiverkiya" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiverkiya&layout=compact&theme=algolia"  ></p>
