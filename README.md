@@ -5,10 +5,10 @@
 <a href="https://www.github.com/hiverkiya/">
   <img align="left" alt="Himanshu Verkiya's GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hiverkiya/">
+<a href="https://www.linkedin.com/in/hiverkiya1999/">
   <img align="left" alt="Himanshu Verkiya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
-<a href="https://www.instagram.com/hiverkiya/">
+<a href="https://www.instagram.com/hiverkiya_/">
   <img align="left" alt="Himanshu Verkiya's Instagram" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/hiverkiya/">
