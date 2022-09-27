@@ -1,6 +1,7 @@
 # Namaste :pray: नमस्ते <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
-# Yet To Update Socials
+# Yet To Update Socials -> Accepting Hacktoberfest submissions on projects soon
+[![@hiverkiya's Holopin board](https://holopin.io/api/user/board?user=hiverkiya)](https://holopin.io/@hiverkiya)
 
 <a href="https://www.github.com/hiverkiya/">
   <img align="left" alt="Himanshu Verkiya's GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
